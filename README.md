@@ -1,6 +1,3 @@
-# homepage
-fsfesf
-saasfdadf
-cASDadawd
-ASdfaSDa
-sdasfdes
+# โปรเจ็ก การใช้ปัญญาประดิษฐ์ในอนุกรมเวลา
+เราเน้นไปที่การใช้ GANs ในการสร้าง distribution ของ Anomaly data 
+
